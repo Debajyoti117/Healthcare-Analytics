@@ -1,4 +1,4 @@
-# Healthcare Analytics | PostgreSQL
+# Healthcare Analytics | PostgreSQL 
  
 ## Project Overview
 SQL-based data analysis project on a relational hospital database of 100+ records spanning 10 hospitals and multiple departments across Indian cities.
